@@ -10,8 +10,6 @@ A high-performance, production-ready React + Tailwind CSS boilerplate using **Vi
 - 📂 **Industry-grade folder structure** – Scalable, modular architecture
 - 📦 **Optimized for production** – Minimal bundle size, tree-shaking ready
 - ✅ **Ready-to-use components & layout wrappers**
-- 🌙 **Dark mode ready** (if needed)
-- 🧪 Optional support for **Jest**, **React Testing Library**, and **Cypress**
 
 ## 🏁 Getting Started
 
