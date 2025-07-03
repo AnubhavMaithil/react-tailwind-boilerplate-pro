@@ -89,11 +89,11 @@ yarn preview
 | `lint`           | Run ESLint checks             |
 | `format`         | Format code with Prettier     |
 
-## 📌 TODO
+<!-- ## 📌 TODO
 
 - [ ] Add testing framework (Jest / RTL / Cypress)
 - [ ] Create auth & protected routes boilerplate
-- [ ] Add dark mode support toggle
+- [ ] Add dark mode support toggle -->
 
 ## 🤝 Contributing
 
